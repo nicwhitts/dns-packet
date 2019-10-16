@@ -17,7 +17,7 @@
     "coverage": "nyc -r html npm test"
   },
   "dependencies": {
-    "ip": "^1.1.5"
+    "node-ip-react-native": "https://github.com/nicwhitts/node-ip-react-native.git"
   },
   "devDependencies": {
     "eslint": "^5.14.1",

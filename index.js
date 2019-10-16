@@ -5,7 +5,7 @@ const rcodes = require('./rcodes')
 const opcodes = require('./opcodes')
 const classes = require('./classes')
 const optioncodes = require('./optioncodes')
-const ip = require('ip')
+const ip = require('node-ip-react-native')
 
 const QUERY_FLAG = 0
 const RESPONSE_FLAG = 1 << 15
