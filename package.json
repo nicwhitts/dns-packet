@@ -1,5 +1,5 @@
 {
-  "name": "dns-packet",
+  "name": "react-native-dns-packet",
   "version": "5.2.1",
   "description": "An abstract-encoding compliant module for encoding / decoding DNS packets",
   "author": "Mathias Buus",
